@@ -6,6 +6,6 @@ v1.0 (donderdag 25-1)
   - POST naar txt bestandje
   
 v1.1 (vrijdag 26-1)
-  -POST naar txt bestandje
-  -GET uit txt bestandje, in chatveld
-  -refresht
+  - POST naar txt bestandje
+  - GET uit txt bestandje, in chatveld
+  - refresht
