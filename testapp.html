@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>TEST Chat App</title>
+  <link rel="stylesheet" href="chatcss/style.css">
+</head>
+  <body>
+  <div class="chatbox"></div>
+    <form name="msgForm" id="msgForm" action="chatbackend.php" method="get">
+        <p><input name="username" type="text" id="username" size="63" placeholder="Your Name" /></p>
+        <p><input name="usermsg" type="text" id="usermsg" size="63" placeholder="Your Message"/></p>
+        <!--<p><input id="sendButton" type="submit" name="submit" value="Submit" /></p>-->
+    </form>
+<div id="sendButton" onclick="sendMSG()" style="cursor: pointer;" text-align=center>Send</div>
+    <script src="chatjs/index.js"></script>
+  </body>
+</html>
