@@ -3,6 +3,8 @@ CodeGorilla bootcamp week 2 assignment: chat app back-end (php, rest api exercis
 
 online: http://wijzijncodegorilla.nl/arendjan/week2_chatbackend/testapp.html
 
+swagger API in repo
+
 # Versies:
 v1.0 (donderdag 25-1)
   - POST naar txt bestandje
